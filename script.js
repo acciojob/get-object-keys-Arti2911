@@ -1,6 +1,6 @@
 //your JS code here. If required.
 const student = {
-  name: "John Doe"
+  name: "Arti"
 };
 
 function getKeys(obj) {
